@@ -20,6 +20,8 @@ autocmd filetype lua nnoremap<F6> :!busted  <CR>
 autocmd filetype * nnoremap<F7> :set hlsearch! <CR>
 autocmd filetype lua nnoremap<F8> :!love .  <CR>
 
+autocmd filetype html nnoremap<F5> :!xdg-open %  <CR>
+
 "Wrap line vertically 
 vnoremap Z :s/./\0\r/g <CR>
 
