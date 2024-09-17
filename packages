@@ -1,6 +1,6 @@
 gpg
 tmux
-vim
+nvim
 steam
 kdenlive
 obs-studio
@@ -18,7 +18,8 @@ neofetch
 xinput
 lightdm-settings
 torbrowser-launcher
-onionshare
 redshift-gtk
 clamav
 fonts-firacoda
+librewolf
+lua5.1
